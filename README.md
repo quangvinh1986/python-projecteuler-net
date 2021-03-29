@@ -40,13 +40,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=1">Problem 001</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-08-Python-Project-Euler-PE001-Multiples-of-3-and-5/">Multiples of 3 and 5</a>
+                    <a href="/PE-001/README.md">Multiples of 3 and 5</a>
                 </td>
                 <td>
                     233168
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-001">Code Python</a>
+                    <a href="/tree/master/PE-001">Code Python</a>
                 </td>
                 <td>
                     1.00135803223e-05s
@@ -63,7 +63,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     4613732
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-002">Code Python</a>
+                    <a href="/tree/master/PE-002">Code Python</a>
                 </td>
                 <td>
                     1.31130218506e-05s
@@ -80,7 +80,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     6857
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-003">Code Python</a>
+                    <a href="/tree/master/PE-003">Code Python</a>
                 </td>
                 <td>
                     1.31130218506e-05s
@@ -97,7 +97,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     906609
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-004">Code Python</a>
+                    <a href="/tree/master/PE-004">Code Python</a>
                 </td>
                 <td>
                     0.00604486465454s
@@ -114,7 +114,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     4613732
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-005">Code Python</a>
+                    <a href="/tree/master/PE-005">Code Python</a>
                 </td>
                 <td>
                      4.100799560546875e-05s
@@ -131,7 +131,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     25164150
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-006">Code Python</a>
+                    <a href="/tree/master/PE-006">Code Python</a>
                 </td>
                 <td>
                     3.981590270996094e-05s
@@ -148,7 +148,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     104743
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-007">Code Python</a>
+                    <a href="/tree/master/PE-007">Code Python</a>
                 </td>
                 <td>
                     0.188479185104s
@@ -165,7 +165,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     23514624000
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-008">Code Python</a>
+                    <a href="/tree/master/PE-008">Code Python</a>
                 </td>
                 <td>
                     0.0036547183990478516s
@@ -182,7 +182,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     4613732
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-009">Code Python</a>
+                    <a href="/tree/master/PE-009">Code Python</a>
                 </td>
                 <td>
                     0.02037191390991211s
@@ -199,7 +199,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     142913828922
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-010">Code Python</a>
+                    <a href="/tree/master/PE-010">Code Python</a>
                 </td>
                 <td>
                     6.484667062759399s
@@ -216,7 +216,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     70600674
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-011">Code Python</a>
+                    <a href="/tree/master/PE-011">Code Python</a>
                 </td>
                 <td>
                     0.002034902572631836s
@@ -233,7 +233,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     76576500
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-012">Code Python</a>
+                    <a href="/tree/master/PE-012">Code Python</a>
                 </td>
                 <td>
                     3.9072110652923584s
@@ -250,7 +250,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     5537376230
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-013">Code Python</a>
+                    <a href="/tree/master/PE-013">Code Python</a>
                 </td>
                 <td>
                     9.775161743164062e-06s
@@ -267,7 +267,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     837799
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-014">Code Python</a>
+                    <a href="/tree/master/PE-014">Code Python</a>
                 </td>
                 <td>
                     1.7523188591003418s
@@ -284,7 +284,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     1366
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-016">Code Python</a>
+                    <a href="/tree/master/PE-016">Code Python</a>
                 </td>
                 <td>
                     0.00020003318786621094s
@@ -301,7 +301,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     1704
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-018">Code Python</a>
+                    <a href="/tree/master/PE-018">Code Python</a>
                 </td>
                 <td>
                     8.821487426757812e-05s
@@ -318,7 +318,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     171
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-019">Code Python</a>
+                    <a href="/tree/master/PE-019">Code Python</a>
                 </td>
                 <td>
                     0.0005667209625244141s
@@ -335,7 +335,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     648
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-020">Code Python</a>
+                    <a href="/tree/master/PE-020">Code Python</a>
                 </td>
                 <td>
                     0.000347137451171875s
@@ -352,7 +352,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     852810
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-021">Code Python</a>
+                    <a href="/tree/master/PE-021">Code Python</a>
                 </td>
                 <td>
                     1.5143499374389648s
@@ -369,7 +369,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     4179871
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-023">Code Python</a>
+                    <a href="/tree/master/PE-023">Code Python</a>
                 </td>
                 <td>
                     4.60374903678894s
@@ -386,7 +386,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     2783915460
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-023">Code Python</a>
+                    <a href="/tree/master/PE-023">Code Python</a>
                 </td>
                 <td>
                     2.47955322265625e-05s
@@ -403,7 +403,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     4613732
                 </td>
                 <td>
-                    <a href="https://github.com/quangvinh86/python-projecteuler/tree/master/PE-003">Code Python</a>
+                    <a href="/tree/master/PE-003">Code Python</a>
                 </td>
                 <td>
                     1.31130218506e-05s
