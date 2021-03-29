@@ -63,7 +63,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     4613732
                 </td>
                 <td>
-                    <a href="/tree/master/PE-002">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-002">Code Python</a>
                 </td>
                 <td>
                     1.31130218506e-05s
@@ -386,7 +386,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     2783915460
                 </td>
                 <td>
-                    <a href="/tree/master/PE-023">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-024">Code Python</a>
                 </td>
                 <td>
                     2.47955322265625e-05s
