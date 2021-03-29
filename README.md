@@ -57,7 +57,7 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=2">Problem 002</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-08-Python-Project-Euler-PE002-Even-Fibonacci-numbers/">Even-Fibonacci-numbers</a>
+                    Even-Fibonacci-numbers
                 </td>
                 <td>
                     4613732
@@ -74,13 +74,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=3">Problem 003</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-08-Python-Project-Euler-PE003-Largest-prime-factor/">Largest-prime-factor</a>
+                    Largest-prime-factor
                 </td>
                 <td>
                     6857
                 </td>
                 <td>
-                    <a href="/tree/master/PE-003">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-003">Code Python</a>
                 </td>
                 <td>
                     1.31130218506e-05s
@@ -91,13 +91,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=4">Problem 004</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-09-Python-Project-Euler-PE004-Largest-palindrome-product ">Largest-palindrome-product</a>
+                    Largest-palindrome-product
                 </td>
                 <td>
                     906609
                 </td>
                 <td>
-                    <a href="/tree/master/PE-004">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-004">Code Python</a>
                 </td>
                 <td>
                     0.00604486465454s
@@ -108,13 +108,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=5">Problem 005</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-10-Python-Project-Euler-PE005-Smallest-multiple ">Smallest-multiple</a>
+                    Smallest-multiple
                 </td>
                 <td>
                     4613732
                 </td>
                 <td>
-                    <a href="/tree/master/PE-005">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-005">Code Python</a>
                 </td>
                 <td>
                      4.100799560546875e-05s
@@ -125,13 +125,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=6">Problem 006</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-10-Python-Project-Euler-PE006-Sum-square-difference">Sum-square-difference</a>
+                    Sum-square-difference
                 </td>
                 <td>
                     25164150
                 </td>
                 <td>
-                    <a href="/tree/master/PE-006">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-006">Code Python</a>
                 </td>
                 <td>
                     3.981590270996094e-05s
@@ -142,13 +142,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=7">Problem 007</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-10-Python-Project-Euler-PE007-10001st-prime/">10001st-prime</a>
+                    10001st-prime
                 </td>
                 <td>
                     104743
                 </td>
                 <td>
-                    <a href="/tree/master/PE-007">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-007">Code Python</a>
                 </td>
                 <td>
                     0.188479185104s
@@ -159,13 +159,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=8">Problem 008</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-10-Python-Project-Euler-PE008-Largest-product-in-a-series/">Largest-product-in-a-series</a>
+                  Largest-product-in-a-series
                 </td>
                 <td>
                     23514624000
                 </td>
                 <td>
-                    <a href="/tree/master/PE-008">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-008">Code Python</a>
                 </td>
                 <td>
                     0.0036547183990478516s
@@ -176,13 +176,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=9">Problem 009</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-11-Python-Project-Euler-PE009-Pythagorean-triplets/">Pythagorean-triplets</a>
+                    Pythagorean-triplets
                 </td>
                 <td>
                     4613732
                 </td>
                 <td>
-                    <a href="/tree/master/PE-009">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-009">Code Python</a>
                 </td>
                 <td>
                     0.02037191390991211s
@@ -193,13 +193,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=10">Problem 010</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-12-Python-Project-Euler-PE010-Summation-of-primes/">Summation-of-primes</a>
+                    Summation-of-primes
                 </td>
                 <td>
                     142913828922
                 </td>
                 <td>
-                    <a href="/tree/master/PE-010">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-010">Code Python</a>
                 </td>
                 <td>
                     6.484667062759399s
@@ -210,13 +210,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=11">Problem 011</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-12-Python-Project-Euler-PE011-Largest-product-in-a-grid/">Largest-product-in-a-grid</a>
+                    Largest-product-in-a-grid
                 </td>
                 <td>
                     70600674
                 </td>
                 <td>
-                    <a href="/tree/master/PE-011">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-011">Code Python</a>
                 </td>
                 <td>
                     0.002034902572631836s
@@ -227,13 +227,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=3">Problem 012</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-14-Python-Project-Euler-PE012-Highly-divisible-triangular-number/">Highly-divisible-triangular-number</a>
+                    Highly-divisible-triangular-number
                 </td>
                 <td>
                     76576500
                 </td>
                 <td>
-                    <a href="/tree/master/PE-012">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-012">Code Python</a>
                 </td>
                 <td>
                     3.9072110652923584s
@@ -244,13 +244,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=13">Problem 013</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-18-Python-Project-Euler-PE013-Large-sum">Large-sum</a>
+                  Large-sum
                 </td>
                 <td>
                     5537376230
                 </td>
                 <td>
-                    <a href="/tree/master/PE-013">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-013">Code Python</a>
                 </td>
                 <td>
                     9.775161743164062e-06s
@@ -261,13 +261,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=14">Problem 014</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-18-Python-Project-Euler-PE014-Longest-Collatz-sequence">Longest-Collatz-sequence</a>
+                    Longest-Collatz-sequence
                 </td>
                 <td>
                     837799
                 </td>
                 <td>
-                    <a href="/tree/master/PE-014">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-014">Code Python</a>
                 </td>
                 <td>
                     1.7523188591003418s
@@ -278,13 +278,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=16">Problem 016</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-19-Python-Project-Euler-PE016-Power-digit-sum">Power-digit-sum</a>
+                  Power-digit-sum
                 </td>
                 <td>
                     1366
                 </td>
                 <td>
-                    <a href="/tree/master/PE-016">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-016">Code Python</a>
                 </td>
                 <td>
                     0.00020003318786621094s
@@ -295,13 +295,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=18">Problem 018</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-21-Python-Project-Euler-PE018-Maximum-path-sum-I">Maximum-path-sum-I</a>
+                    Maximum-path-sum-I
                 </td>
                 <td>
                     1704
                 </td>
                 <td>
-                    <a href="/tree/master/PE-018">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-018">Code Python</a>
                 </td>
                 <td>
                     8.821487426757812e-05s
@@ -312,13 +312,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=19">Problem 010</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-23-Python-Project-Euler-PE019-Counting-Sundays">Counting-Sundays</a>
+                    Counting-Sundays
                 </td>
                 <td>
                     171
                 </td>
                 <td>
-                    <a href="/tree/master/PE-019">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-019">Code Python</a>
                 </td>
                 <td>
                     0.0005667209625244141s
@@ -329,13 +329,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=20">Problem 020</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-23-Python-Project-Euler-PE020-Sum-of-Digits-in-100gt">Sum-of-Digits-in-100gt</a>
+                    Sum-of-Digits-in-100gt
                 </td>
                 <td>
                     648
                 </td>
                 <td>
-                    <a href="/tree/master/PE-020">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-020">Code Python</a>
                 </td>
                 <td>
                     0.000347137451171875s
@@ -346,13 +346,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=21">Problem 021</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-06-26-Python-Project-Euler-PE021-Amicable-numbers">Amicable-numbers</a>
+                    Amicable-numbers
                 </td>
                 <td>
                     852810
                 </td>
                 <td>
-                    <a href="/tree/master/PE-021">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-021">Code Python</a>
                 </td>
                 <td>
                     1.5143499374389648s
@@ -363,13 +363,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=23">Problem 023</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-07-01-Python-Project-Euler-PE023-Non-abundant-sums/">Non-abundant-sums</a>
+                    Non-abundant-sums
                 </td>
                 <td>
                     4179871
                 </td>
                 <td>
-                    <a href="/tree/master/PE-023">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-023">Code Python</a>
                 </td>
                 <td>
                     4.60374903678894s
@@ -377,10 +377,10 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
             </tr>
             <tr>
                 <td>
-                    <a href="https://projecteuler.net/problem=23">Problem 023</a>
+                    <a href="https://projecteuler.net/problem=24">Problem 024</a>
                 </td>
                 <td>
-                    <a href="https://quangvinh86.github.io/2018-07-10-PE024-Lexicographic-permutations/">Lexicographic-permutations</a>
+                    Lexicographic-permutations
                 </td>
                 <td>
                     2783915460
