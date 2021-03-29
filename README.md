@@ -40,13 +40,13 @@ Chính vì vậy, tôi mới thực hiện giải được số lượng bài nh
                     <a href="https://projecteuler.net/problem=1">Problem 001</a>
                 </td>
                 <td>
-                    <a href="/PE-001/README.md">Multiples of 3 and 5</a>
+                    <b>Multiples of 3 and 5</b>
                 </td>
                 <td>
                     233168
                 </td>
                 <td>
-                    <a href="/tree/master/PE-001">Code Python</a>
+                    <a href="https://github.com/quangvinh1986/python-projecteuler-net/tree/master/PE-001">Code Python</a>
                 </td>
                 <td>
                     1.00135803223e-05s
